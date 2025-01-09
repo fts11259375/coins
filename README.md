@@ -4,7 +4,7 @@
 
 A Windows market-watching app using Bitget's API, only supports tokens listed on Bitget.
 <br>
-
+<br>
 接受捐款的Solana地址：7djiSxoodpuwy6FT4CvrDBR4YurfWqgTKXebtsdba7X
 
 Solana address for donations: 7djiSxoodpuwy6FT4CvrDBR4YurfWqgTKXebtsdba7X
