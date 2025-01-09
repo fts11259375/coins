@@ -1,4 +1,4 @@
-# Coins
+# 盯盘宝 - Coins
 一个用来盯盘的Windows程序，使用Bitget的API，因此仅支持Bitget上列出的代币。
 <br>
 A Windows market-watching app using Bitget's API, only supports tokens listed on Bitget.
