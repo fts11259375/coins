@@ -5,9 +5,12 @@ A Windows market-watching app, which allows users to input the holding qty and c
 
 [下载地址/Download Page](https://github.com/fts11259375/coins/releases)
 
-接受捐款的Solana地址：7djiSxoodpuwy6FT4CvrDBR4YurfWqgTKXebtsdba7X
+捐款/Donation：
 <br>
-Solana address for donations: 7djiSxoodpuwy6FT4CvrDBR4YurfWqgTKXebtsdba7X
+Ethereum: 0xb46bd87891b3569cfb728f5682efcebd5a7a10d1
+<br>
+Solana: 7djiSxoodpuwy6FT4CvrDBR4YurfWqgTKXebtsdba7X
+
 
 ![QQ20250109-134913](https://github.com/user-attachments/assets/1f7c8bc2-7537-4fa6-962c-0db51a268615)
 ![QQ20250109-134931](https://github.com/user-attachments/assets/9f3d0f93-32eb-43c0-b75e-e03ec0359374)
